@@ -48,10 +48,15 @@ Dependencies
 To run the code in this repository, you will need the following Python libraries:
 
 *Pandas
+
 *NumPy
+
 *Scikit-learn
+
 *Matplotlib (for visualization)
+
 *Tensorflow
+
 *Keras
 
 Usage
